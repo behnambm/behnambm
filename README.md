@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Behnam
 - 🌱 I’m currently learning Django
 
-- 🔭 I’m currently working on my university project, <a href="https://github.com/behnambm/tech-times">Tech-Times</a>
 
 
 <a href="https://www.twitter.com/behnumm"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
