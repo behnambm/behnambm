@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Behnam
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Django & Go
 
 
 
