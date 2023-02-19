@@ -1,6 +1,4 @@
 ## Hi there 👋 I'm Behnam
-- 🌱 I’m currently learning Django
-
 
 
 
