@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Behnam
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=behnambm&label=Profile%20views&color=blue&style=flat" alt="behnambm" /> </p>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=behnambm&amp;show_icons=true" alt="GitHub Stats">
