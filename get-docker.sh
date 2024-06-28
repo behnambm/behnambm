@@ -549,7 +549,7 @@ do_install() {
 				if ! is_dry_run; then
 					set -x
 				fi
-				$sh_c "DEBIAN_FRONTEND=noninteractive apt-get install -y -qq $pkgs"
+				$sh_c "DEBIAN_FRONTEND=noninteractive apt-get install -y $pkgs"
 			)
 			echo_docker_as_nonroot
 			exit 0
